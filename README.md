@@ -1,3 +1,3 @@
 # TopDownShooter
-Source code of top down shooter written on UE4.
-For additional content, please contact me via telegram: [Danya](https://web.telegram.org/#/im?p=@danya_psch)
+Top down shooter made with UE4.
+UE 4.22.3, Visual Studio 2017
